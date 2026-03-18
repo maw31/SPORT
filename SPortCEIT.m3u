@@ -22,15 +22,15 @@ http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 FHD
 http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5J/3784
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",Sport TV 1 Portugal (Rocket)
-https://s.rocketdns.info/live/50840659/92211003/848.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/848.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",Sport TV 2 Portugal (Rocket)
-https://s.rocketdns.info/live/50840659/92211003/846.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/846.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",Sport TV 3 Portugal (Rocket)
-https://s.rocketdns.info/live/50840659/92211003/844.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/844.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 Portugal (Rocket)
-https://s.rocketdns.info/live/50840659/92211003/842.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/842.ts
 #EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",Sport TV 5 Portugal (Rocket)
-https://s.rocketdns.info/live/50840659/92211003/839.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/840.ts
 #EXTINF:-1, Art Sport 1 HD 
 http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1, Art Sport 2 HD 
