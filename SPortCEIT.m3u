@@ -21,84 +21,62 @@ http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DB
 http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5J/9004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 FHD
 http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5J/3784
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",Sport TV 1 Portugal (Rocket)
+#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",Sport TV 1 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/848.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",Sport TV 2 Portugal (Rocket)
+#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",Sport TV 2 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/846.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",Sport TV 3 Portugal (Rocket)
+#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",Sport TV 3 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/844.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 Portugal (Rocket)
+#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/842.ts
-#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",Sport TV 5 Portugal (Rocket)
+#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",Sport TV 5 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/840.ts
-#EXTINF:-1, Art Sport 1 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 1 HD 
 http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1, Art Sport 2 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 2 HD 
 http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1, Art Sport 3 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 3 HD 
 http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1, Art Sport 4 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 4 HD 
 http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1, Art Sport 5 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 5 HD 
 http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1, Art Sport 6 HD 
+#EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 6 HD 
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1,Tivibu Spor 1 
+#EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 1 
 http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1,Tivibu Spor 2 
+#EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 2 
 http://65.108.239.207/t2/index.m3u8
-#EXTINF:-1,Tivibu Spor 3 
+#EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 3 
 http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1,Tivibu Spor 4 
+#EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 4 
 http://65.108.239.207/t4/index.m3u8
-#EXTINF:-1, 4Football 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", 4Football 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
-#EXTINF:-1, Vsport  Premium 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport  Premium 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294056&extension=ts&play_token=ORjKHsaW1H
-#EXTINF:-1, Vsport Extra 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport Extra 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294058&extension=ts&play_token=XLhm4jy6Q6
-#EXTINF:-1, Vsport Motor
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport Motor
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294062&extension=ts&play_token=HKSdQsGCnY
-#EXTINF:-1, Vsport Football 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport Football 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=ts&play_token=X7FgSJ9YKe
-#EXTINF:-1, Vsport 1 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport 1 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=1109060&extension=ts&play_token=01Q35J9eex
-#EXTINF:-1, Vsport 2 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport 2 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294045&extension=ts&play_token=IePOQAQFek
-#EXTINF:-1, Vsport 3 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport 3 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294039&extension=ts&play_token=mhow2fBWnl
-#EXTINF:-1, Vsport 4 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport 4 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=ts&play_token=kJl61veKrg
-#EXTINF:-1, 4MotorTv 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", 4MotorTv 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294052&extension=ts&play_token=9ZxkayU6SV
-#EXTINF:-1, 4Hockey 
+#EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", 4Hockey 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294050&extension=ts&play_token=yfNsxVbnXR
-#EXTINF:-1, Eurosport 1 
+#EXTINF:-1 group-title="Eurosport" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Emblem.png", Eurosport 1 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
-#EXTINF:-1, Eurosport 2 
+#EXTINF:-1 group-title="Eurosport" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Emblem.png", Eurosport 2 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",1 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a016
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",2 SPORT 🇮🇱
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",2 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a019
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",3 SPORT 🇮🇱
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",3 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01a
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",4 SPORT 🇮🇱
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",4 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01b
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
-http://77.137.40.221:8000/play/a01c
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",6 SPORT 🇮🇱
-http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 1 HD 🇽🇰
 http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 2 HD 🇽🇰
