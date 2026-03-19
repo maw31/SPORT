@@ -77,18 +77,6 @@ http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294050&extension=
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294038&extension=ts&play_token=NrLWS0P6US
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Emblem.png", Eurosport 2 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294036&extension=ts&play_token=BjAOctlP2o
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 1 HD 🇽🇰
-http://169.150.223.25/ArtSport1HD/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 2 HD 🇽🇰
-http://169.150.223.25/ArtSport2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 3 HD 🇽🇰
-http://169.150.223.25/ArtSport3/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 4 HD 🇽🇰
-http://169.150.223.25/ArtSport4/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 5 HD 🇽🇰
-http://169.150.223.25/ArtSport5/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 6 HD 🇽🇰
-http://169.150.223.25/ArtSport6/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 1 🇷🇺
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 2 🇷🇺
