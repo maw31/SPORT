@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png?1752486985" group-title="SPORT",MAX SPORT 2
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_3_BG_logo.png?1752487216" group-title="SPORT",MAX SPORT 3
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4
+http://77.46.130.252:99/maxsport4
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 1 FHD
 http://update.miicrosoft.es:80/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5J/82429
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 2 FHD
