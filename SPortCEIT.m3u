@@ -41,6 +41,8 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 6 HD 
 http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="Brasile" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png", CAZE TV 
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 1 
 http://65.108.239.207/t1/index.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 2 
