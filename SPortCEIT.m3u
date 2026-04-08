@@ -52,13 +52,13 @@ http://169.150.223.25/ArtSport6/index.m3u8
 #EXTINF:-1 group-title="Brasile" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png", CAZE TV 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 1 
-http://65.108.239.207/t1/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 2 
-http://65.108.239.207/t2/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 3 
-http://65.108.239.207/t3/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 4 
-http://65.108.239.207/t4/index.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", 4Football 
 http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294054&extension=ts&play_token=dKKpb8gzTG
 #EXTINF:-1 group-title="Svezia" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", Vsport  Premium 
@@ -95,6 +95,9 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1648.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1647.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sport3-hd-logo.png" group-title="Albanian",Tring Sport 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1646.m3u8
+EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 🇧🇷
+#EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;Premier League⚽️;Serie A⚽️
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eleven Sports 1 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105525
