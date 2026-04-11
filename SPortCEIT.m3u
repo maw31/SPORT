@@ -23,6 +23,10 @@ http://91.201.172.14:35006/
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27183
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 4 FHD
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27184
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Italia ",EuroSport 1 FHD
+http://cdn.tv-rds.workers.dev/EURO1IT.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Italia ",EuroSport 2 FHD
+http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 FHD
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Romania ",EuroSport 2 FHD
