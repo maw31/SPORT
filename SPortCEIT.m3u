@@ -15,6 +15,20 @@ http://77.46.130.252:99/maxsport2
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4
 http://77.46.130.252:99/maxsport4
+#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-nl-logo.png",ZIGGO SPORT NL
+http://cdn.tv-rds.workers.dev/ZiggoSport.m3u8
+#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-2-nl-logo.png",ZIGGO SPORT 2 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport2.m3u8
+#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-3-nl-logo.png",ZIGGO SPORT 3 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
+#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-4-nl-logo.png",ZIGGO SPORT 4 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
+#EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",ZIGGO SPORT 5 NL
+http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
+#EXTINF:-1 group-title="Freeshot Argentina" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-logo.png",ESPN  ARG
+http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
+#EXTINF:-1 group-title="Freeshot Argentina" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 ARG
+http://cdn.tv-rds.workers.dev/ESPN2ARG.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 1 FHD
 http://91.201.172.14:35005/
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 2 FHD
