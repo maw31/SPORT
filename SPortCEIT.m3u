@@ -85,6 +85,14 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yfZzX5k/oneplay-sport-1.png" group-title="Czech/Slovak",ONEPLAY 1
+http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3JwYNJN2/oneplay-sport-2.png" group-title="Czech/Slovak",ONEPLAY 2
+http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrFhwsv9/oneplay-sport-3.png" group-title="Czech/Slovak",ONEPLAY 3
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrFhwsv9/oneplay-sport-4.png" group-title="Czech/Slovak",ONEPLAY 3
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/TringSport1-HD_logo.png" group-title="Albanian",Tring Sport 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1648.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sport2-hd-logo.png" group-title="Albanian",Tring Sport 2
