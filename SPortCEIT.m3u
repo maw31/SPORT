@@ -67,6 +67,18 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/844.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/842.ts
 #EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",Sport TV 5 Portugal (Rocket)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/840.ts
+#EXTINF:-1 tvg-name="ART Sport 1 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="Diğer",ART Sport 1 XK
+http://cdn.tv-rds.workers.dev/ARTSport1.m3u8
+#EXTINF:-1 tvg-name="ART Sport 2 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="Diğer",ART Sport 2 XK
+http://cdn.tv-rds.workers.dev/ARTSport2.m3u8
+#EXTINF:-1 tvg-name="ART Sport 3 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-3-logo.png" group-title="Diğer",ART Sport 3 XK
+http://cdn.tv-rds.workers.dev/ARTSport3.m3u8
+#EXTINF:-1 tvg-name="ART Sport 4 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-4-logo.png" group-title="Diğer",ART Sport 4 XK
+http://cdn.tv-rds.workers.dev/ARTSport4.m3u8
+#EXTINF:-1 tvg-name="ART Sport 5 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-5-logo.png" group-title="Diğer",ART Sport 5 XK
+http://cdn.tv-rds.workers.dev/ARTSport5.m3u8
+#EXTINF:-1 tvg-name="ART Sport 6 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-6-logo.png" group-title="Diğer",ART Sport 6 XK
+http://cdn.tv-rds.workers.dev/ARTSport6.m3u8
 #EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 1 HD 
 http://169.150.223.25/ArtSport1HD/index.m3u8
 #EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 2 HD 
