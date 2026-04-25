@@ -25,6 +25,10 @@ http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
 http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 #EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",ZIGGO SPORT 5 NL
 http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
+#EXTINF:-1 group-title="GER" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 HD DE
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
+#EXTINF:-1 group-title="GER" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
+http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 #EXTINF:-1 group-title="Freeshot Argentina" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-logo.png",ESPN  ARG
 http://cdn.tv-rds.workers.dev/ESPNARG.m3u8
 #EXTINF:-1 group-title="Freeshot Argentina" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 ARG
