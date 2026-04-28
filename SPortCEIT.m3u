@@ -149,13 +149,4 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/SPORT1_CZ.webp" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sport 1 🇨🇿⚽️🎯
 #EXTGRP:World Sports 🌎;Serie A⚽️;Europa League⚽️
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Матч! Футбол 1.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 1 🇷🇺
-http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB2.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 2 🇷🇺
-http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Матч! Футбол 3.ru" tvg-logo="https://github.com/iprtl/p1/raw/master/logo/%D0%9C%D0%B0%D1%82%D1%87!%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB3.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png",Матч!Футбол 3 🇷🇺
-http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
-#EXTINF:-1 tvg-id="405554" group-title="Tennis" tvg-logo="https://sonic.shliv.fun/crchd/assets/tvlogos/SkySportsTennis.jpg",Sky Sports Tennis
-https://v.antsports.tv/live/28/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Tennis" group-title="Tennis" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Sky Sports Tennis 🇬🇧
-https://7pal.short.gy/ssportstn
+
