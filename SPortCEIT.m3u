@@ -57,16 +57,14 @@ http://cdn.tv-rds.workers.dev/EURO2IT.m3u8
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Romania ",EuroSport 2 FHD
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-1.png",Sport TV 1 Portugal (Rocket)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60014.ts
-#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-2.png",Sport TV 2 Portugal (Rocket)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60017.ts
-#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-3.png",Sport TV 3 Portugal (Rocket)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60019.ts
-#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-4.png",Sport TV 4 Portugal (Rocket)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60021.ts
-#EXTINF:-1 group-title="Portogallo" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sport-tv-5.png",Sport TV 5 Portugal (Rocket)
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/60022.ts
+#EXTINF:-1 tvg-name="Cosmote Sport 1 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png" group-title="Grecia",Cosmote Sport 1 CHL
+http://cdn.tv-rds.workers.dev/CosmoteSport1.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 2 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png" group-title="Grecia",Cosmote Sport 2 Serie A
+http://cdn.tv-rds.workers.dev/CosmoteSport2.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 FR" tvg-logo="https://freeshot.live/upload/source/DAZN-1-logo.png" group-title="Francia",DAZN 1 Serie A
+http://cdn.tv-rds.workers.dev/DAZN1FR.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 6 GR" tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png" group-title="Grecia",Cosmote Sport 6 Tennis
+http://cdn.tv-rds.workers.dev/CosmoteSport6.m3u8
 #EXTINF:-1 tvg-name="ART Sport 1 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png" group-title="Diğer",ART Sport 1 XK
 http://cdn.tv-rds.workers.dev/ARTSport1.m3u8
 #EXTINF:-1 tvg-name="ART Sport 2 XK" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png" group-title="Diğer",ART Sport 2 XK
