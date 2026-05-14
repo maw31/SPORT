@@ -120,6 +120,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1646.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",ESPN 🇧🇷
 #EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;Premier League⚽️;Serie A⚽️
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+#EXTINF:-1 tvg-logo="http://logo.tvmedia.io/images/0205b33d00c33dfc5b63f217616d67be.png" group-title="PL | Telewizja",Eleven Sports 1 HD
+http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105525.m3u8
+#EXTINF:-1 tvg-logo="http://logo.tvmedia.io/images/39afd408825c655f76fac50ec04ba301.png" group-title="PL | Telewizja",Eleven Sports 2 HD
+http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105526.m3u8
+#EXTINF:-1 tvg-logo="http://fabryka.stream:8880/images/d91d9b739ddf1fd861ffdd1f9be8efc9.png" group-title="PL | Telewizja",Eleven Sports 3 HD
+http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105527.m3u8
+#EXTINF:-1 tvg-logo="http://logo.tvmedia.io/images/7d35169bc5f63f033d3562c4fbcb367e.png" group-title="PL | Telewizja",Eleven Sports 4 HD
+http://bocian.io:8080/live/marek58/Mjc3ODg5MDQ4/105528.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/elevensport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="World Sports 🌎",Eleven Sports 1 
 #EXTGRP:Liga Betclic⚽️;World Sports 🌎;Serie A⚽️
 http://cdn.tv-rds.workers.dev/ElevenSports1PL.m3u8
