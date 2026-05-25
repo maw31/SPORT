@@ -33,8 +33,6 @@ http://cdn.tv-rds.workers.dev/ZiggoSport3.m3u8
 http://cdn.tv-rds.workers.dev/ZiggoSport4.m3u8
 #EXTINF:-1 group-title="Freeshot Belgium & Netherlands" tvg-logo="https://freeshot.live/upload/source/ziggo-sport-5-nl-logo.png",ZIGGO SPORT 5 NL
 http://cdn.tv-rds.workers.dev/ZiggoSport5.m3u8
-#EXTINF:-1 group-title="GER" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 HD DE
-http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
 #EXTINF:-1 group-title="GER" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 http://cdn.tv-rds.workers.dev/DAZN2DE.m3u8
 #EXTINF:-1 group-title="Freeshot Argentina" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-logo.png",ESPN  ARG
@@ -89,6 +87,16 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 group-title="Kosovo" tvg-logo="https://en.wikipedia.org/wiki/ArtSport#/media/File:ArtSport_Logo.jpg", Art Sport 6 HD 
 http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
+http://cdn.tv-rds.workers.dev/TSN1.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
+http://cdn.tv-rds.workers.dev/TSN2.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
+http://cdn.tv-rds.workers.dev/TSN3.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
+#EXTINF:-1 group-title="Canada" tvg-logo="https://freeshot.live/upload/source/TSN5_Logo.png" group-title="Diğer",TSN5
+http://cdn.tv-rds.workers.dev/TSN5.m3u8
 #EXTINF:-1 group-title="Brasile" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png", CAZE TV 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Turchia" tvg-logo="https://pnggallery.com/wp-content/uploads/tivibu-logo-03.png",Tivibu Spor 1 
@@ -103,14 +111,6 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yfZzX5k/oneplay-sport-1.png" group-title="Czech/Slovak",ONEPLAY 1
-http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3JwYNJN2/oneplay-sport-2.png" group-title="Czech/Slovak",ONEPLAY 2
-http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrFhwsv9/oneplay-sport-3.png" group-title="Czech/Slovak",ONEPLAY 3
-http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrFhwsv9/oneplay-sport-4.png" group-title="Czech/Slovak",ONEPLAY 3
-http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/TringSport1-HD_logo.png" group-title="Albanian",Tring Sport 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1648.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sport2-hd-logo.png" group-title="Albanian",Tring Sport 2
