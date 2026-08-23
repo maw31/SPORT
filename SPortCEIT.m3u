@@ -59,8 +59,10 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/461
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportUnoIT
 #EXTINF:-1 tvg-chno="440" group-title="SERIE A" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
-#EXTINF:-1  tvg-chno="442" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+#EXTINF:-1  tvg-chno="441" group-title="TENNIS" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/576
+#EXTINF:-1  tvg-chno="442" group-title="TENNIS" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportTennisIT
 #EXTINF:-1 tvg-chno="446" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/577
 #EXTINF:-1 tvg-chno="448" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",EUROSPORT 1 
@@ -103,6 +105,10 @@ http://77.46.130.252:99/maxsport3
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/475
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Max_Sport_4_BG_logo.png?1752487528" group-title="SPORT",MAX SPORT 4 HD
 http://77.46.130.252:99/maxsport3
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 1 HD PL
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2518/index.m3u8
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2517/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/426
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
