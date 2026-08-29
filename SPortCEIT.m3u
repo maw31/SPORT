@@ -98,6 +98,12 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/55
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/68
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/69
+#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/105
+#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/110
+#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/164
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/165
@@ -105,6 +111,8 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/165
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/166
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/167
+#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3045
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3046
 #EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
@@ -151,6 +159,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/2518/inde
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2517/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/2517/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31578/index.m3u8
+EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31579/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Cosmote Sport 3 HD GR
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31581/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/426
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
