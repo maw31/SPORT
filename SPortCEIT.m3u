@@ -168,6 +168,8 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31581/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/426
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca0/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2EwOjE3ODg4NzYwNjQ2Nzc6Y2RubGl2ZXR2LnR2OmZkOWVmNjJkYzgxZmVmYWMuMmRmNTFiZWY1MTY0MTM2OWE0ODRjYTRjNjMxMDA5ZDAzNWFlM2Y2Y2E4OGE2NGMyODcyODk4OTdjNWYzYmExMw
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 1 DE
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19042/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/427
