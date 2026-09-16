@@ -18,22 +18,20 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno="430" tvg-id="SkyUno.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
 #EXTINF:0 group-title="Sk@y",Sky Uno
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
-#EXTINF:0 group-title="Sk@y",Sky Uno
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19101/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Atlantic
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19102/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Atlantic
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/362 
 #EXTINF:0 group-title="Sk@y",Sky Cinema Collection
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19099/index.m3u8
 #EXTINF:0 group-title="Sk@y",Sky Cinema Collection
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/859
 #EXTINF:0 group-title="Sk@y",Sky Cinema Stories
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19096/index.m3u8
+#EXTINF:0 group-title="Sk@y",Sky Cinema Suspense
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19100/index.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-id="SkySerie.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sk@y",Sky Serie
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
-#EXTINF:0 group-title="Sk@y",Sky Cinema Serie
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/880
 #EXTINF:0 group-title="Sk@y",Sky Cinema Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/860
@@ -42,19 +40,17 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/248
 #EXTINF:-1 tvg-chno="432" group-title="Sk@y" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_logo.png" group-title="Sk@y",Skx Cinema Action
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/861
 #EXTINF:-1 tvg-chno="432" group-title="Sk@y" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_action_logo.png" group-title="Sk@y",Skx Cinema Action
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19098/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19098/index.m3u8
 #EXTINF:-1 tvg-chno="433" group-title="Sk@y" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_comedy_logo.png" group-title="Sk@y",Skx Cinema comedy
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/862
 #EXTINF:-1 tvg-chno="434" group-title="Sk@y" tvg-logo="https://tvprofil.com/img/kanali-logo/sky_cinema_family_logo.png" group-title="Sk@y",Skx Cinema Famili
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/865
 #EXTINF:-1 tvg-chno="435" group-title="Sk@y" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sk@y"
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/868
-#EXTINF:0 group-title="Sk@y",Sky Cinema Suspense
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1 tvg-chno="436" group-title="SERIE A" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/869
 #EXTINF:-1 tvg-chno="437" group-title="SERIE A" group-title="ITAIPTV" tvg-logo="https://freeshot.live/upload/source/SkySport24-logo.png",Sky Sport 24 IT
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19107/mpegts
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19107/index.m3u8
 #EXTINF:-1 tvg-chno="438" group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/461
 #EXTINF:-1 tvg-chno="439" group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
@@ -93,30 +89,6 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
 #EXTINF:-1 tvg-chno="462" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/55
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/68
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/69
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/105
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/110
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/164
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/165
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/166
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/167
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3045
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3046
-#EXTINF:-1 group-title="DAZDA" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",D@ZN ITA
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3047
 #EXTINF:-1 tvg-name="Tring Sport 1 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-1-AL-logo.png" group-title="SERIE A",Tring Sport 1 AL
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31563/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 2 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-2-AL-logo.png" group-title="SERIE A",Tring Sport 2 AL
@@ -154,11 +126,15 @@ http://213.169.39.30:5130
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 1 HD PL
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2518/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 1 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/2518/index.m3u8
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4851.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2517/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png",Eleven Sports 2 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3PVEHDX52ZW4M5/2517/index.m3u8
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4852.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-extra-poland.png" group-title="Sport",Eleven Sport 3 FHD
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4853.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png" group-title="Sport",Eleven Sport 4 FHD
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4854.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31578/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR
