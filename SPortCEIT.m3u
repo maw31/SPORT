@@ -194,15 +194,15 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31958/index.m3u8
 #EXTINF:-1 tvg-chno="474" group-title="Mondiale" , Dazn 6 POR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2536/index.m3u8
 #EXTINF:-1 tvg-chno="475" group-title="SERIE A" , SPORT TV 1 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/49
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2525/index.m3u8
 #EXTINF:-1 tvg-chno="476" group-title="SERIE A" , SPORT TV 2 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/74
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2526/index.m3u8
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 3 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/454
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2527/index.m3u8
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 4 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/289
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2528/index.m3u8
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 5 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/290
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/2529/index.m3u8
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 6 POR
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/291
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 1 FHD
