@@ -135,6 +135,12 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4852.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4853.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Eleven_Sports_4_PL_logo.png" group-title="Sport",Eleven Sport 4 FHD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4854.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_1_HD
+http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_2_HD
+http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="SERIE A",Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 1 HD GR
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31578/index.m3u8
 #EXTINF:-1 group-title="SERIE A",Cosmote Sport 2 HD GR
