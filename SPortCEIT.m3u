@@ -13,7 +13,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/308
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/3008  
 #EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 [coming]
+#EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-id="SkyUno.it" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/sky.webp" group-title="Sky",Sky Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
@@ -95,10 +95,14 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31563/index.m3u8
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31564/index.m3u8
 #EXTINF:-1 tvg-name="Tring Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-3-AL-logo.png" group-title="SERIE A",Tring Sport 3 AL
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31565/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2 ARG"  group-title="DAZDA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 ARG
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/150
-#EXTINF:-1 tvg-name="ESPN 3 ARG"  group-title="DAZDA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 3 ARG
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/798
+#EXTINF:-1 tvg-name="ESPN BRA"  group-title="SERIEA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN BRA
+https://cr7v.short.gy/live25/spn/Index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 BRA"  group-title="SERIEA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-2-logo.png",ESPN 2 BRA
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 BRA"  group-title="SERIEA" tvg-logo="https://freeshot.live/upload/source/ESPN-Brasil-3-logo.png",ESPN 3 BRA
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIEA" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/472
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
@@ -157,6 +161,18 @@ http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19042/index.m3u8
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/427
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png",DAZN 2 DE
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19043/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A",Match_Football_1_HD
+http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="SERIE A",Match_Football_2_HD
+http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="SERIE A",Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SERIE A",Match_Football_1_HD
+http://cdntv.online/low/9mlxywika2/55.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="SERIE A",Match_Football_2_HD
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="SERIE A",Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="tvg-logo="https://freeshot.live/upload/source/Super-Sport-1-logo.png",SUPER SPORT TK
 https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="tvg-logo="https://freeshot.live/upload/source/Super-Sport-1-logo.png",SUPER SPORT TK
