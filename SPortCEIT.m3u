@@ -103,6 +103,18 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 4 BRA"  group-title="SERIEA" tvg-logo="https://i.imgur.com/ErWFVO3.png",ESPN 4 BRA
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+#EXTINF:-1, group-title="SERIE A" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png",SPORT TV 1 POR
+http://dns.explouddev.com/live/992005733/61992005733/111995.m3u8
+#EXTINF:-1, group-title="SERIE A" group-title="SERIE A" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png",SPORT TV 2 POR
+http://dns.explouddev.com/live/992005733/61992005733/111998.m3u8
+#EXTINF:-1, group-title="SERIE A" group-title="SERIE A" tvg-logo="https://imgur.com/QuDzhTi.png",SPORT TV 3 POR
+http://dns.explouddev.com/live/992005733/61992005733/112000.m3u8
+#EXTINF:-1, group-title="SERIE A" group-title="SERIE A" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png",SPORT TV 4 POR
+http://dns.explouddev.com/live/992005733/61992005733/112002.m3u8
+#EXTINF:-1, group-title="SERIE A" group-title="SERIE A" tvg-logo="https://imgur.com/tS7t12k.png",SPORT TV 5 POR
+http://dns.explouddev.com/live/992005733/61992005733/112004.m3u8
+#EXTINF:-1, Sport TV 6 group-title="SPORT",SPORT TV 6 POR
+http://dns.explouddev.com/live/992005733/61992005733/112006.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/472
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
