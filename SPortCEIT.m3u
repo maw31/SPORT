@@ -87,6 +87,8 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
 #EXTINF:-1 tvg-chno="461" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png", M.LIGA CAMPEONES
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/MLIGADECAMPEONES
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png", ART SPORT 1
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport1
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png", ART SPORT 2
