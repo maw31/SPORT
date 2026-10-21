@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Golazo.us" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
+#EXTINF:-1 tvg-id="Golazo.us" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="SPORT",Golazo - SerieA
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/63a0e33a45264d000850ed7e
-#EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 🇧🇷[coming]
+#EXTINF:-1 group-title="SPORT",FIFA World Cup 2026 🇧🇷[coming]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Mondiale",FIFA World Cup 2026 [coming]
+#EXTINF:-1 group-title="SPORT",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-chno="439" group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+#EXTINF:-1 group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportUnoIT
-#EXTINF:-1 tvg-chno="439" group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+#EXTINF:-1 group-title="SERIE A" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19137/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1  tvg-chno="442" group-title="TENNIS" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
+#EXTINF:-1 group-title="TENNIS" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis 
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportTennisIT
-#EXTINF:-1 tvg-chno="446" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
+#EXTINF:-1 tvg-name="SKY F1" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="SPORT",F1 I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportF1Italia
-#EXTINF:-1 tvg-chno="460" group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",Eurosport 1
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/Eurosport_1_logo.png",Eurosport 1
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
-#EXTINF:-1 tvg-chno="460" group-title="SPORT" tvg-logo=""https://freeshot.live/upload/source/Eurosport_2_logo.png",Eurosport 2
+#EXTINF:-1 group-title="SPORT" tvg-logo=""https://freeshot.live/upload/source/Eurosport_2_logo.png",Eurosport 2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
-#EXTINF:-1 tvg-chno="461" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
-#EXTINF:-1 tvg-chno="463" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
+#EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/SkySportCalcio-logo.png",Sky Sport Calcio
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
-#EXTINF:-1  tvg-chno="442" group-title="TENNIS" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/Sky-sport-tennis.png",Sk@y Sport Tennis I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportTennisIT
-#EXTINF:-1 tvg-chno="446" tvg-name="SKY F1" group-title="ITAIPTV",F1 I
+#EXTINF:-1 tvg-name="SKY F1" tvg-logo="https://freeshot.live/upload/source/sky-sport-F1-logo.png" group-title="SPORT",F1 I
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportF1Italia
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSUPERCALCIOHD.png" group-title="|IT| ✪ SKY CALCIO",|IT| SKY SPORT CALCIO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSUPERCALCIOHD.png" group-title="A UEFA",SKY SPORT CALCIO ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=9193&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTSERIEA.png" group-title="|IT| ✪ SPORT",|IT| SKY SERIE A ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTSERIEA.png" group-title="A UEFA",SKY SERIE A ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41060&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 251 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 251 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=12491&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 251 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 251 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=12490&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 252 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 252 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287246&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 252 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 252 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4201&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 253 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 253 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287247&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 253 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 253 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4200&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 254 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 254 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41061&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 254 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 254 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287248&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT|SKY SPORT 254 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 254 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4199&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 255 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 255 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41062&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT  255 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT  255 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4198&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 256 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41063&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 256 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=287249&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 256 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 256 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4197&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 257 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 257 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41064&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT 257 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT 257 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=41144&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT BAR DUE ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153499&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT BAR DUE ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153500&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="|IT| ✪ SPORT",|IT| SKY SPORT BAR DUE ˢᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYSPORTHD.png" group-title="A UEFA",SKY SPORT BAR DUE ˢᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=153501&extension=ts
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png", M.LIGA CAMPEONES
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/MLIGADECAMPEONES
@@ -95,33 +95,33 @@ http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=12332&extensi
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=264894&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="|PL| ✪ SPORTOWE",PL| ELEVEN SPORTS 3 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=264895&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/SCANDINAVIAN/ESPORTSTV.png" group-title="|PL| ✪ SPORTOWE",|PL| EXTREME SPORTS ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/SCANDINAVIAN/ESPORTSTV.png" group-title="A UEFA", EXTREME SPORTS ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4737&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/POLONIA/GOLFCHANNEL.png" group-title="|PL| ✪ SPORTOWE",|PL| GOLF CHANNEL
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/POLONIA/GOLFCHANNEL.png" group-title="A UEFA", GOLF CHANNEL
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=14739&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/POLONIA/POLSATSPORT.png" group-title="|PL| ✪ SPORTOWE",|PL| POLSAT SPORT ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/POLONIA/POLSATSPORT.png" group-title="A UEFA", POLSAT SPORT ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=14740&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="|PL| ✪ SPORTOWE",|PL| CANAL+ SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="A UEFA", CANAL+ SPORT 2 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=80473&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="|PL| ✪ SPORTOWE",|PL| CANAL+ SPORT 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="A UEFA", CANAL+ SPORT 3 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=80474&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="|PL| ✪ SPORTOWE",|PL| CANAL+ SPORT 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="A UEFA", CANAL+ SPORT 4 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=80475&extension=ts
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="|PL| ✪ SPORTOWE",PL| CANAL+ SPORT 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/0tv_logo/5028.png" group-title="A UEFA", CANAL+ SPORT 5 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=233714&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d1/Canal%2B_Extra_%282024-.n.v.%29.png/revision/latest?cb=20250417113951" group-title="|PL| ✪ POLSAT EXTRA",PL| POLSAT SPORT EXTRA ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/Polsat_Sport_Premium_2_logo.png" group-title="A UEFA", POLSAT SPORT EXTRA ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=233715&extension=ts
-#EXTINF:-1 tvg-chno="469" group-title="UEFA" , Dazn 1 POR
+#EXTINF:-1 tvg-name="DAZN 1 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA, Dazn 1 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31954/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="471" group-title="UEFA" , Dazn 2 POR
+#EXTINF:-1 tvg-name="DAZN 2 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 2 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31955/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="472" group-title="UEFA" , Dazn 3 POR
+#EXTINF:-1 tvg-name="DAZN 3 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 3 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31956/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1tvg-chno="473" group-title="UEFA" , Dazn 4 POR
+#EXTINF:-1 tvg-name="DAZN 4 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 4 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31957/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="474" group-title="UEFA" , Dazn 5 POR
+#EXTINF:-1 tvg-name="DAZN 5 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA",Dazn 5 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31958/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="474" group-title="UEFA" , Dazn 6 POR
+#EXTINF:-1 tvg-name="DAZN 6 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 6 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2536/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-chno="475" group-title="SERIE A" , SPORT TV 1 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2525/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
@@ -133,39 +133,46 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2527/index.m3u8?wms
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2528/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 5 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2529/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-chno="475" group-title="SERIE A",SPORT TV 1 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT1
+#EXTINF:-1 tvg-chno="476" group-title="SERIE A" , SPORT TV 2 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT2
+#EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 3 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT3
+#EXTINF:-1, Sport TV 4 group-title="SPORT",SPORT TV 4 POR
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT4#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport1-logo.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 1 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91582&extension=ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport2-logo.png" group-title="UEFA", MAGENTA SPORT 2 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91583&extension=ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport3-logo.png" group-title="UEFA", MAGENTA SPORT 3 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91584&extension=ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AQD1wOQtgVY/XrlKJ6ojWGI/AAAAAAAAAKg/QpKvx71Z0YEu_mTXUmxkpeKP_R_48YoBACLcBGAsYHQ/s1600/Cosmote_logo_2015.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport4-logo.png" group-title="UEFA", MAGENTA SPORT 4 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91585&extension=ts
-#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Cosmote.webp" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport5-logo.png" group-title="UEFA", MAGENTA SPORT 5 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91586&extension=ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AQD1wOQtgVY/XrlKJ6ojWGI/AAAAAAAAAKg/QpKvx71Z0YEu_mTXUmxkpeKP_R_48YoBACLcBGAsYHQ/s1600/Cosmote_logo_2015.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport6-logo.png" group-title="UEFA", MAGENTA SPORT 6 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91587&extension=ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AQD1wOQtgVY/XrlKJ6ojWGI/AAAAAAAAAKg/QpKvx71Z0YEu_mTXUmxkpeKP_R_48YoBACLcBGAsYHQ/s1600/Cosmote_logo_2015.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport7-logo.png" group-title="UEFA", MAGENTA SPORT 7 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91588&extension=ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AQD1wOQtgVY/XrlKJ6ojWGI/AAAAAAAAAKg/QpKvx71Z0YEu_mTXUmxkpeKP_R_48YoBACLcBGAsYHQ/s1600/Cosmote_logo_2015.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png" group-title="UEFA", MAGENTA SPORT 8 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91589&extension=ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AQD1wOQtgVY/XrlKJ6ojWGI/AAAAAAAAAKg/QpKvx71Z0YEu_mTXUmxkpeKP_R_48YoBACLcBGAsYHQ/s1600/Cosmote_logo_2015.png" group-title="|GR| ✪ MAGENTA SPORT",|GR| MAGENTA SPORT 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/CosmoteSport8-logo.png" group-title="UEFA", MAGENTA SPORT 9 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=91590&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="|RO| ✪ SPORTS",|RO| PRIMA SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/PrimaSport1-logo.png" group-title="UEFA", PRIMA SPORT 1 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=453473&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="|RO| ✪ SPORTS",|RO| PRIMA SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/PrimaSport2-logo.png" group-title="UEFA", PRIMA SPORT 2 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=453474&extension=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10170.jpg?88477" group-title="|RO| ✪ SPORTS",|RO| PRIMA SPORT 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/PrimaSport3-logo.png" group-title="UEFA", PRIMA SPORT 3 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=453475&extension=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10169.jpg?96258" group-title="|RO| ✪ SPORTS",|RO| PRIMA SPORT 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/PrimaSport4-logo.png" group-title="UEFA", PRIMA SPORT 4 ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=453476&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="|RO| ✪ SPORTS",|RO| Digi Sport 1 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="UEFA", DIGI SPORT 1 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=29086&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="|RO| ✪ SPORTS",|RO| DIGI SPORT 2
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2_logo.png" group-title="UEFA", DIGI SPORT 2
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4504&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="|RO| ✪ SPORTS",|RO| DIGI SPORT 3
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_3_logo.png" group-title="UEFA", DIGISPORT 3
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4503&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png" group-title="|RO| ✪ SPORTS",|RO| DIGI SPORT 4
+#EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4_logo.png" group-title="UEFA", DIGI SPORT 4
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=4502&extension=ts
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/UK/TNTSPORTS.png" group-title="|UK| ✪ SPORTS",|UK| TNT SPORTS 1 ᵁᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=309615&extension=ts
@@ -183,14 +190,6 @@ http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=77415&extensi
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=309618&extension=ts
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/UK/BTSPORT.png" group-title="|UK| ✪ SPORTS",|UK| TNT SPORTS 4
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:00:00:01&stream=10510&extension=ts
-#EXTINF:-1 tvg-chno="475" group-title="SERIE A",SPORT TV 1 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT1
-#EXTINF:-1 tvg-chno="476" group-title="SERIE A" , SPORT TV 2 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT2
-#EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 3 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT3
-#EXTINF:-1, Sport TV 4 group-title="SPORT",SPORT TV 4 POR
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT4
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
@@ -265,36 +264,14 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118749.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118750.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TNT_Sports_3_logo.png" group-title="Sport",TNT Sport 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118751.m3u8
-#EXTINF:-1 tvg-chno="464" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png" group-title="Diğer",TSN1
+#EXTINF:-1  group-title="SPORT" tvg-logo="https://freeshot.live/upload/source/TSN1_Logo.png",TSN1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1456.m3u8
-#EXTINF:-1 tvg-chno="465" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
+#EXTINF:-1  group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN2_Logo.png",TSN2
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1455.m3u8
-#EXTINF:-1 tvg-chno="466" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png" group-title="Diğer",TSN3
+#EXTINF:-1  group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN3_Logo.png",TSN3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1454.m3u8
-#EXTINF:-1 tvg-chno="467" group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png" group-title="Diğer",TSN4
+#EXTINF:-1  group-title="Mondiale" tvg-logo="https://freeshot.live/upload/source/TSN4_Logo.png",TSN4
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1453.m3u8
-#EXTINF:-1 tvg-chno="469" group-title="UEFA" , Dazn 1 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31954/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="471" group-title="UEFA" , Dazn 2 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31955/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="472" group-title="UEFA" , Dazn 3 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31956/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1tvg-chno="473" group-title="UEFA" , Dazn 4 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31957/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="474" group-title="UEFA" , Dazn 5 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31958/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="474" group-title="UEFA" , Dazn 6 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2536/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="475" group-title="SERIE A" , SPORT TV 1 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2525/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="476" group-title="SERIE A" , SPORT TV 2 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2526/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 3 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2527/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 4 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2528/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-chno="477" group-title="SERIE A" , SPORT TV 5 POR
-http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2529/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_1_logo.png" group-title="SERIE A ",Digi Sport 1 FHD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT1
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_2_logo.png" group-title="SERIE A ",Digi Sport 2 FHD
@@ -303,13 +280,13 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT3
 #EXTINF:-1 tvg-logo="https://freeshot.live/upload/source/DIGI_SPORT_4_logo.png" group-title="SERIE A ",Digi Sport 4 FHD
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/DIGISPORT4
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 1 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="SERIE A ",Digi Sport 1 FHD
 http://91.201.172.14:35005/
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="SERIE A ",Digi Sport 2 FHD
 http://91.201.172.14:35006/
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 3 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="SERIE A ",Digi Sport 3 FHD
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2524/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="Romania ",Digi Sport 4 FHD
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/digi-sport-logo-png_seeklogo-228250.png" group-title="SERIE A ",Digi Sport 4 FHD
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/2538/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 FHD
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
@@ -317,7 +294,3 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 tvg-id="" group-title="SERIE A",Setenta Sport 2 🇷🇺
 http://cdntv.online/low/9mlxywika2/1022.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPN.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="SERIE A",ESPN 🇧🇷
-#EXTGRP:Liga Betclic⚽️;Sports 🇧🇷;Premier League⚽️;Serie A⚽️
-https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
-
