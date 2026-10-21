@@ -17,18 +17,6 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportF1Italia
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro1IT
 #EXTINF:-1 tvg-chno="460" group-title="SPORT" tvg-logo=""https://freeshot.live/upload/source/Eurosport_2_logo.png",Eurosport 2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
-#EXTINF:-1 tvg-chno="453" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 251 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/871
-#EXTINF:-1 tvg-chno="454" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 252 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/872
-#EXTINF:-1 tvg-chno="455" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 253 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/873
-#EXTINF:-1 tvg-chno="456" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 254 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/874
-#EXTINF:-1 tvg-chno="457" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 255 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/875
-#EXTINF:-1 tvg-chno="458" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport 256 HD
-https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/876
 #EXTINF:-1 tvg-chno="461" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 #EXTINF:-1 tvg-chno="463" group-title="SERIE A" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp",Sky Sport Calcio
