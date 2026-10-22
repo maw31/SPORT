@@ -41,6 +41,20 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportTennisIT
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportF1Italia
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/Movistar_LaLiga-logo.png", M.LIGA CAMPEONES
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/MLIGADECAMPEONES
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8: The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-1-logo.png", ART SPORT 1
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ARTSport1
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ART-Sport-2-logo.png", ART SPORT 2
@@ -59,7 +73,7 @@ http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31563/index.m3u8?wm
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31564/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-name="Tring Sport 3 AL" tvg-logo="https://freeshot.live/upload/source/Tring-Sport-3-AL-logo.png" group-title="SERIE A",Tring Sport 3 AL
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31565/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
-#EXTINF:-1 tvg-name="DAZN 1 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA, Dazn 1 POR
+#EXTINF:-1 tvg-name="DAZN 1 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 1 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31954/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 tvg-name="DAZN 2 PT" tvg-logo="https://freeshot.live/upload/source/DAZN-logo.png" group-title="UEFA", Dazn 2 POR
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/31955/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
