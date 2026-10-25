@@ -23,7 +23,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
-EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT CALCIO SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/SD%20Sky%20Sport%20Serie%20A.png" group-title="⚽️ SKY CALCIO [ S ]",SKY SPORT CALCIO SD
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT CALCIO SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/SD%20Sky%20Sport%20Serie%20A.png" group-title="⚽️ SKY CALCIO [ S ]",SKY SPORT CALCIO SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/38.ts
 #EXTINF:-1 tvg-id="SkySport251.it" tvg-name="SKY CALCIO 1 - 251 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%201%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 1 - 251 SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/208.ts
@@ -31,7 +31,7 @@ http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/208.ts
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/205.ts
 #EXTINF:-1 tvg-id="SkySport253.it" tvg-name="SKY CALCIO 3 - 253 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%203%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 3 - 253 SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/202.ts
-EXTINF:-1 tvg-id="SkySport254.it" tvg-name="SKY CALCIO 4 - 254 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%204%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 4 - 254 SD
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="SKY CALCIO 4 - 254 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%204%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 4 - 254 SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/199.ts
 #EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY CALCIO 5 - 255 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%205%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 5 - 255 SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/33214.ts
