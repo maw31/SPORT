@@ -35,6 +35,12 @@ http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/202.ts
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/199.ts
 #EXTINF:-1 tvg-id="SkySport255.it" tvg-name="SKY CALCIO 5 - 255 SD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20Calcio%205%20SD.png" group-title="⚽️ SKY CALCIO [ S ]",SKY CALCIO 5 - 255 SD
 http://cbc.giize.com:6923/live/Claudioternimulti/ib7qT05UBZ/33214.ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691277.png" group-title="IT| ITALY UHD/4K",IT| SKY SPORT FOOTBALL UHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691277&extension=ts&play_token=w6aKbkZcl3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691276.png" group-title="IT| ITALY UHD/4K",IT| SKY SPORT FOOTBALL 4K
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691276&extension=ts&play_token=8dDbxIvJh0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691275.png" group-title="IT| ITALY UHD/4K",IT| SKY SPORT ARENA UHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691275&extension=ts&play_token=ne9jn4cBwg
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/ITALY/SKYCALCIO1HD.png" group-title="|IT| ✪ SKY CALCIO",|IT| SKY SPORT CALCIO  ᴴᴰ
 http://4kottiptv.xyz:80/play/live.php?mac=00:1A:79:01:71:8F&stream=9193&extension=ts
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="|IT| ✪ SKY CALCIO",|IT| SKY SPORT CALCIO  ˢᴰ
@@ -532,6 +538,56 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT3
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="SERIE A" , SPORT TV 4 POR
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SPT4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107436&extension=ts&play_token=qETZHq1gVv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=118447&extension=ts&play_token=RqoMWLOB2S
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=148671&extension=ts&play_token=WtgszmSC3x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107435&extension=ts&play_token=JkhLXf063o
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=118446&extension=ts&play_token=yHuGWECyEN
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=148670&extension=ts&play_token=u2hEDbQV5Z
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107434&extension=ts&play_token=XMfIspKwUx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=118445&extension=ts&play_token=cAHFr1NMm4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=148669&extension=ts&play_token=mVmPRhlOIQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107433&extension=ts&play_token=UrecGVRN1u
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=148668&extension=ts&play_token=VnCyli8CRe
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=148667&extension=ts&play_token=NuYaZtJRfw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 FHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1809290&extension=ts&play_token=C9zQu9vkCi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV6.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=712739&extension=ts&play_token=lQQDPQfXK4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV7.png" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=1613387&extension=ts&play_token=I00BWluzv8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 1 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107495&extension=ts&play_token=gjQqLlkzQx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=118459&extension=ts&play_token=FlKJ8J4T4A
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 2 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107494&extension=ts&play_token=2DRMH33MaA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 2 HEVC
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=118458&extension=ts&play_token=JDp8N14l3z
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 3
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107493&extension=ts&play_token=QDxC2HAdIi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 3 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=122484&extension=ts&play_token=6SOYdFuvUb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 4
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107492&extension=ts&play_token=8DgczCiagy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 4 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=122485&extension=ts&play_token=8bglqqez4H
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 5
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=107491&extension=ts&play_token=QeQ9Jzp2do
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 5 HD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=122486&extension=ts&play_token=Gi5Fkq09UT
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/MAX_Sport_1_BG_logo.png?1766395996" group-title="SPORT",MAX SPORT 1 HD
