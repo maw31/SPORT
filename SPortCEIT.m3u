@@ -23,6 +23,8 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/SkySportCalcioIT
 http://u8dhz1nx.rostelekom.xyz/iptv/QEGKBQ65G85PQHFRUAYZWU55/19113/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNCAzOjI0OjIyIFBNJmhhc2hfdmFsdWU9ZmE3SCtlZTd3d1hFbUcrc1dydWh3UT09JnZhbGlkbWludXRlcz0xODA=
 #EXTINF:-1 group-title="SERIE A" tvg-logo="https://freeshot.live/upload/source/ZonaDAZN-logo.png",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="SERIE A",SKY DAZN 1 UHD
+http://mag.wunderkid.live:80/play/live.php?mac=00:1A:79:D5:4F:97&stream=691242&extension=ts&play_token=yqQI2V00dZ
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691275.png" group-title="SERIE A",SKY SPORT ARENA UHD
 http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/19128/index.m3u8
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/691275.png" group-title="SERIE A",SKY SPORT ARENA UHD
